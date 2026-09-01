@@ -2,6 +2,8 @@
 
 FormBridge is a privacy-first, accessible demonstration of people and browser agents completing a consequential form together. The included **Harbor Relief Assistance** program is entirely fictional and uses synthetic data.
 
+**Live demo:** [formbridge-webmcp.vercel.app](https://formbridge-webmcp.vercel.app)
+
 ![FormBridge welcome screen](artifacts/formbridge-welcome.png)
 
 ## Why WebMCP
@@ -57,4 +59,4 @@ The app remains fully usable in browsers without WebMCP. See [the demo runbook](
 
 ## Current delivery boundary
 
-The repository and local production build are implementation-complete. Vercel deployment, live ChatGPT in-app-browser WebMCP evaluation, manual NVDA/Narrator smoke testing, hackathon registration, and Devpost submission require user/session access and are intentionally not claimed as complete here.
+The public repository and Vercel production build are live. The complete guided path and all nine WebMCP tools were verified in ChatGPT's in-app browser on September 1, 2026. Manual NVDA/Narrator smoke testing, hackathon registration, and Devpost submission remain release gates and are intentionally not claimed as complete here.
